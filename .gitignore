@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# large data
+saveRDS
+data
+
 # C extensions
 *.so
 
